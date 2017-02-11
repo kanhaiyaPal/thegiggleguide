@@ -1,1 +1,3 @@
-This is me writing readme for first time
+The Giggle Guide Project:
+
+The project is under construction of thoughts. Please wait...
